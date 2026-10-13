@@ -1,0 +1,27 @@
+{
+  "id": "gpt-image-2",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-13T06:43:01Z",
+  "prices": {
+    "default": {
+      "list": 0.010625,
+      "effective": 0.0085
+    },
+    "1K": {
+      "list": 0.2109,
+      "effective": 0.0085
+    },
+    "2K": {
+      "list": 0.4283,
+      "effective": 0.014
+    },
+    "4K": {
+      "list": 0.7117,
+      "effective": 0.021
+    }
+  },
+  "rates": {},
+  "unit": "usd_per_image",
+  "hook": "from $0.0085 per image (1K $0.0085 · 2K $0.014 · 4K $0.021)",
+  "model_page": "https://apimart.ai/model/gpt-image-2"
+}
